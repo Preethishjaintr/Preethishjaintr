@@ -1,7 +1,7 @@
 <!--
 **kabir-asani/kabir-asani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# `Hello World, I'm Kabir Asani 👋🏽`
+# `Hello World, I'm Preethish Jain TR 👋🏽`
 
 A self-taught `Full-Stack Mobile Developer`. 
 * I develop mobile applications in `Flutter`, `React Native`, `SwiftUI` and `Compose`.
